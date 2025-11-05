@@ -1,0 +1,175 @@
+
+{
+  "agents": [
+    {
+      "id": 1,
+      "name": "Alina",
+      "email": "mail@gmail.com",
+      "contact": "+3200000000",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Maryam",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Fatima",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "Eisha",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Name",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "name": "Name",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "Name",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 8,
+      "name": "Name",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "Name",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "name": "Name",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 11,
+      "name": "Name",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    },
+    {
+      "id": 12,
+      "name": "Name",
+      "email": "mail@gmail.com",
+      "contact": "+3200000001",
+      "campaigns": 2,
+      "status": "Active"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "avatar": "https://via.placeholder.com/40",
+      "name": "Audify Infotech FZCO",
+      "code": "ACIN01",
+      "phone": "+91 99999 99991",
+      "country": "India",
+      "email": "info@acutiy.ae"
+    },
+    {
+      "id": 2,
+      "avatar": "https://via.placeholder.com/40",
+      "name": "ABC Infotech",
+      "code": "ABC1",
+      "phone": "+91 99999 99992",
+      "country": "India",
+      "email": "info@abcinfotech.com"
+    },
+    {
+      "id": 3,
+      "avatar": "https://via.placeholder.com/40",
+      "name": "NEW Infotech",
+      "code": "NEW",
+      "phone": "+91 99999 99993",
+      "country": "India",
+      "email": "info@newinfotech.in"
+    },
+    {
+      "id": 4,
+      "avatar": "https://via.placeholder.com/40",
+      "name": "ABC Infotech 2",
+      "code": "ACIN02",
+      "phone": "+91 99999 99994",
+      "country": "India",
+      "email": "info2@acuity.ae"
+    },
+    {
+      "id": 5,
+      "avatar": "https://via.placeholder.com/40",
+      "name": "ABC Infotech 3",
+      "code": "ACIN03",
+      "phone": "+91 99999 99995",
+      "country": "India",
+      "email": "info3@acuity.ae"
+    },
+    {
+      "id": 6,
+      "avatar": "https://via.placeholder.com/40",
+      "name": "ABC Infotech 4",
+      "code": "ACIN04",
+      "phone": "+91 99999 99996",
+      "country": "India",
+      "email": "info4@acuity.ae"
+    },
+    {
+      "id": 7,
+      "avatar": "https://via.placeholder.com/40",
+      "name": "ABC Infotech 5",
+      "code": "ACIN05",
+      "phone": "+91 99999 99997",
+      "country": "India",
+      "email": "info5@acuity.ae"
+    },
+    {
+      "id": 8,
+      "avatar": "https://via.placeholder.com/40",
+      "name": "ABC Infotech 6",
+      "code": "ACIN06",
+      "phone": "+91 99999 99998",
+      "country": "India",
+      "email": "info@acuity.ae"
+    }
+  ]
+}
